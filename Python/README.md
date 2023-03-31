@@ -1,0 +1,1 @@
+1. Python built-in function: map, reduce, filter, zip
