@@ -1,9 +1,11 @@
 **What is map function?**
+
 In Python, the "map" function is a built-in function that applies a given function to each item of an iterable (e.g., a list, tuple, or set), and returns an iterator that yields the results.
 
     map(function, iterable)
 
 **What is reduce function?**
+
 In Python, the "reduce" function is a built-in function that is used to apply a function to an iterable (e.g., a list, tuple, or set) and reduce it to a single value.
 
 The "reduce" function takes two arguments: a function and an iterable. The function should take two arguments and return a single value, and the iterable should contain at least two values. The "reduce" function then applies the function to the first two values of the iterable, then to the result and the next value, and so on, until the entire iterable has been processed.
@@ -21,6 +23,7 @@ from functools import reduce
 
 
 **what is filter function?**
+
 In Python, the "filter" function is a built-in function that is used to filter an iterable (e.g., a list, tuple, or set) based on a given function, and returns an iterator that yields the items for which the function returns "True".
 filter(function, iterable)
 my_list = [1, 2, 3, 4, 5]
