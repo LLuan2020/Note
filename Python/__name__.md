@@ -1,4 +1,4 @@
-**What’s Python __name__?**
+## What’s Python __name__?
 
 The `__name__` is a special variable in Python. It’s special because Python assigns a different value to it depending on how its containing script executes. If the source file is executed as the main program, the interpreter sets the `__name__` variable to have a value “`__main__`”. If this file is being imported from another module, `__name__` will be set to the module’s name.
 
@@ -17,9 +17,9 @@ Now the interpreter is given the command to run File1.py.
 
 python File1.py
 
-Output :
+**Output:**
 
-File1 __name__ = __main__
+File1 \_\_name__ = \_\_main__
 
 File1 is being run directly
 
@@ -38,13 +38,13 @@ And then File2.py is run.
 
 python File2.py
 
-Output :
+**Output:**
 
-File1 __name__ = File1
+File1 \_\_name__ = File1
 
 File1 is being imported
 
-File2 __name__ = __main__
+File2 \_\_name__ = \_\_main__
 
 File2 is being run directly      
 
