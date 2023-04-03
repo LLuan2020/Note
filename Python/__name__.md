@@ -1,4 +1,4 @@
-## What’s Python __name__?
+## What’s Python \_\_name__?
 
 The `__name__` is a special variable in Python. It’s special because Python assigns a different value to it depending on how its containing script executes. If the source file is executed as the main program, the interpreter sets the `__name__` variable to have a value “`__main__`”. If this file is being imported from another module, `__name__` will be set to the module’s name.
 
