@@ -45,6 +45,6 @@
 - Delete a File
 
 **OOP**
-- Classes vs Objects
+- [Classes vs Objects](./Class%20vs%20Objects.md)
 
 
