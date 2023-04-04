@@ -33,7 +33,7 @@
         version = '5'
 
     HtmlDocument.media_type = 'text/html'
-    pprint(HtmlDocument.__dict__)
+    print(HtmlDocument.__dict__)
     ```
 
     Output:
