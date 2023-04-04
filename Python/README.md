@@ -46,6 +46,6 @@
 
 **OOP**
 - [Classes vs Objects](./Class%20vs%20Objects.md)
-- [Encapsulation]()
+- [Encapsulation](./Encapsulation.md)
 
 
