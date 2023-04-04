@@ -1,9 +1,12 @@
 # Note
 
-#### Python
+### [Python](./Python)
 
 Python Interview Concepts
 
+### OOP
 
-#### SQL
+OOP Concepts
+
+### SQL
 
