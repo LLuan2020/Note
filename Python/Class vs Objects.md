@@ -3,9 +3,12 @@
 - **What is a class?**
 
 A class is a prototype that consists of objects in different states and with different behaviors. It has a number of methods that are common the objects present within that class.
+    
     class Person:
         pass
+        
 To create an instance of a class, you use the class name with parentheses like this:
+    
     person = Person()
 
 - **What is class variable?**
