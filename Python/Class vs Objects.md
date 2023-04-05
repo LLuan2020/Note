@@ -89,7 +89,7 @@
 
 - **What is \_\_init__() method?**
 
-    When you create a new object of a class, Python automatically calls the __init__() method to initialize the object’s attributes. We can use the \_\_init__() method to initialize the object’s attributes.
+    When you create a new object of a class, Python automatically calls the \_\_init__() method to initialize the object’s attributes. We can use the \_\_init__() method to initialize the object’s attributes.
     ```python
     class Person:
         def __init__(self, name, age):
