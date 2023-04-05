@@ -18,7 +18,7 @@
 - what is try...except?
 
 **Closures**
-- What is Python Closures?
+- [What is Python Closures?](./closures.md)
 
 **Decorators**
 - What is Python Decorators?
