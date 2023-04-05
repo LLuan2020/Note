@@ -6,9 +6,9 @@
 - [Python Built-in Functions: `map`, `reduce`, `filter`, `zip`](./Build-in%20Functions.md)
 
 **More on functions**
-- unpacking *
-- The *args Parameters
-- The **kwargs Parameters
+- [Unpacking \*](./unpacking*.md)
+- [The \*args Parameters vs The \*\*kwargs Parameters](./*args%20vs%20**kwargs.md)
+
 
 **Modules**
 - [What is \_\_name\_\_?](./__name__.md)
