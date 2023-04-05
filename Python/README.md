@@ -35,24 +35,28 @@
 - iter() Function
 
 **OOP**
-- Classes vs Objects
-  - [What is a class?](./Class%20vs%20Objects.md)
-  - [What is class variable?](./Class%20vs%20Objects.md)
-  - [What is the purpose of the "self" keyword in Python classes?](./Class%20vs%20Objects.md)
-  - [What is an object?](./Class%20vs%20Objects.md)
-  - [What is \_\_init__() method?](./Class%20vs%20Objects.md)
-- Encapsulation
-  - [What is encapsulation?](./Encapsulation.md)
-  - [Private Attributes](./Encapsulation.md)
-- Inheritance
-  - What is inheritance?
-  - Overriding Methods
-  - Overloading Methods
-  - What is super()?
-  - \_\_slots__
-  - Abstract Classes
+
+**Classes vs Objects**
+- [What is a class?](./Class%20vs%20Objects.md)
+- [What is class variable?](./Class%20vs%20Objects.md)
+- [What is the purpose of the "self" keyword in Python classes?](./Class%20vs%20Objects.md)
+- [What is an object?](./Class%20vs%20Objects.md)
+- [What is \_\_init__() method?](./Class%20vs%20Objects.md)
+
+**Encapsulation**
+- [What is encapsulation?](./Encapsulation.md)
+- [Private Attributes](./Encapsulation.md)
+
+**Inheritance**
+- What is inheritance?
+- Overriding Methods
+- Overloading Methods
+- What is super()?
+- \_\_slots__
+- Abstract Classes
+
+**Enumeration**
 - Enumeration
-  - Enumeration
 
 **Special Methods**
 - \_\_str__
