@@ -2,7 +2,7 @@
 
 **Functions**
 - [Private Functions](./Private%20Functions.md)
-- What is Lambda Expressions
+- [What is Lambda Expressions](./lambda.md)
 - [Python Built-in Functions: `map`, `reduce`, `filter`, `zip`](./Build-in%20Functions.md)
 
 **More on functions**
