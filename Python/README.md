@@ -34,16 +34,6 @@
 - Iterator vs Iterable
 - iter() Function
 
-**File I/O**
-- Reading a Text File
-- Writing to a Text File
-- Creating a Text File
-- Checking If a File Exists
-- Reading from a CSV File
-- Writing to a CSV File
-- Renaming a File
-- Delete a File
-
 **OOP**
 - Classes vs Objects
   - [What is a class?](./Class%20vs%20Objects.md)
@@ -54,5 +44,32 @@
 - Encapsulation
   - [What is encapsulation?](./Encapsulation.md)
   - [Private Attributes](./Encapsulation.md)
+- Inheritance
+  - What is inheritance?
+  - Overriding Methods
+  - Overloading Methods
+  - What is super()?
+  - \_\_slots__
+  - Abstract Classes
+- Enumeration
+  - Enumeration
+
+**Special Methods**
+- \_\_str__
+- \_\_repr__
+- \_\_eq__
+- \_\hash__
+- \_\_bool__
+- \_\_del__
+
+**File I/O**
+- Reading a Text File
+- Writing to a Text File
+- Creating a Text File
+- Checking If a File Exists
+- Reading from a CSV File
+- Writing to a CSV File
+- Renaming a File
+- Delete a File
 
 
