@@ -1,6 +1,7 @@
 ## *args VS **kwargs?
 
-- **What is *args?**
+- **What is \*args?**
+    
     args is used to pass a variable number of non-keyword arguments to a function. The asterisk () before the parameter name "args" indicates that the function can accept any number of arguments, which are then passed as a tuple to the function. 
     ```python
     def my_func(*args):
@@ -10,6 +11,7 @@
     my_func(1, 2, 3, "hello") # prints: 1 2 3 hello
     ```
     - Python *args argument exhausts positional arguments
+    
     If you use the *args argument, you cannot add more positional arguments. However, you can use keyword arguments.
 
     The following example results in an error because it uses a positional argument after the *arg argument:
@@ -61,7 +63,8 @@
     ```
     When you precede the argument a with the operator *, Python unpacks the tuple and assigns its elements to x and y parameters.
 
-- **What is **kwargs?**
+- **What is \*\*kwargs?**
+
     kwargs is used to pass a variable number of keyword arguments (or named arguments) to a function. The double asterisk () before the parameter name "kwargs" indicates that the function can accept any number of keyword arguments, which are then passed as a dictionary to the function.
     ```python
     def my_func(**kwargs):
@@ -80,7 +83,7 @@
 
     connect(**config)
     ```
-    Using *args and **kwargs can be useful when you don't know how many arguments a function will need to accept, or when you want to allow the user to pass a variable number of arguments to a function in a flexible way.
+    Using *args and \*\*kwargs can be useful when you don't know how many arguments a function will need to accept, or when you want to allow the user to pass a variable number of arguments to a function in a flexible way.
 
 
 
