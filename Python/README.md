@@ -48,7 +48,7 @@
 - [Private Attributes](./Encapsulation.md)
 
 **Inheritance**
-- What is inheritance?
+- [What is inheritance?](./Inheritance.md)
 - Overriding Methods
 - Overloading Methods
 - What is super()?
