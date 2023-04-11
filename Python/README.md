@@ -26,8 +26,8 @@
 - Python Class Decorators
 
 **Generators**
-- Generators
-- Generator Expressions
+- [Generators](./Generator.md)
+- [Generator Expressions](./Generator.md)
 
 **Iterables & Iterators**
 - Iterators
