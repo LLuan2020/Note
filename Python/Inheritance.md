@@ -20,7 +20,7 @@ class Employee(Person):
 >>>employee = Employee('John', 'Python Developer')
 >>>print(employee.greet())
 
-Hi, it''s John
+Hi, it's John
 ```
 To reuse the greet() method from the Person class in the Employee class, you can create a relationship between the Person and Employee classes. To do it, you use inheritance so that the Employee class inherits from the Person class.
 
